@@ -1,0 +1,22 @@
+int main(){
+  int a=3.3.3;
+  int b=4,bb=4;
+  b=5;
+  char s[10];
+  s[1] = 'u';
+  float c=10.23e-10;
+  boolean d=true;
+  float e=b+c;
+  float f=b*c;
+  string g="aaa;
+  /*aaaa
+  aaaa
+  aaaa
+  if(b>c)
+      do{
+           println(a);
+        }while(a>3);
+  }else{
+  	  b++;
+  }
+}
